@@ -91,11 +91,10 @@ Happy financing!
 
 ### Forgot Password
 Forgot your password? No Problem
-    1. Click reset password
-    2. Enter your username and the press continue
-    3. Enter the question you chose when you signed up and the answer to that said question.
-    4. Enter your new password
-    And with any luck your password will be changed. The program will notify you if the password has been changed.
+1. Click reset password
+2. Enter your username and the press continue
+3. Enter the question you chose when you signed up and the answer to that said question.
+4. Enter your new password And with any luck your password will be changed. The program will notify you if the password has been changed.
 
 Now go and try sign in.
 Happy financing!
