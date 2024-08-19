@@ -60,7 +60,7 @@ Ensure you have the following dependencies installed:
 You can install the Python dependencies using pip in your cmd:
 ```pip install sqlite3 pandas pillow tkinter customtkinter matplotlib argon2 CTkToolTip```
 
-The images folder should be included in the installation. If not contact angel.parra@hillcrest.vic.edu.au for a fix
+The images folder should be included in the installation.
 
 ### Starting the program
 Run the 'Budget Manager.py' file in however way you would like, ensuring you have a python version that is compatible with python 3.11
