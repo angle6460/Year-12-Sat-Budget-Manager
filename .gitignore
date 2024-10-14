@@ -3,3 +3,5 @@
 .idea/Year-12-Sat-Budget-Manager.iml
 /.idea
 *.db
+/__pycache__
+*.db
